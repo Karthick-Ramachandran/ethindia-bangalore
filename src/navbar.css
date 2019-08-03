@@ -12,4 +12,31 @@ nav {
     padding-left: 1rem;
     padding-right: 1rem;
     align-items: center;
+    box-shadow: 3px 4px 8px grey;
+}
+
+
+.active i{
+    color: orange;
+
+}
+.active div {
+    color: orange;
+}
+.none .text-center {
+    color: black;
+}
+.none i {
+    color: saddlebrown;
+}
+
+span {
+    font-size: 1.4rem;
+    text-align: center;
+    display: block;
+}
+
+.link {
+ text-decoration: none;
+ color: black;
 }
